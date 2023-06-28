@@ -1,16 +1,18 @@
-# fooderlich
+# Fooderlich
 
-A new Flutter project.
+A sample recipe app from Kodeco Flutter Apprentice Book.
+Originally, the source code from the book uses Provider as the state management.
+This repository aims to replace the use of Provider with Riverpod as one of my attempts to learn state management in Flutter.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-A few resources to get you started if this is your first Flutter project:
+### Installing
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```
+1. Clone or download this project
+2. Open the project using Android Studio or VSCode
+3. Run pub get 
+4. Run using a simulator or real device
+```
